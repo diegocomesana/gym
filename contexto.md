@@ -1,6 +1,6 @@
 # Contexto — qué hago y en qué marco
 
-_Referencia para relacionar lo que guardás en `conocimiento/`. Actualizalo cuando cambie algo importante._
+_Referencia **personal** para cuando quieras relacionar lo de [`docs/`](./docs/README.md) con tu vida. Los docs técnicos en sí van en `docs/`, ordenados por tema._
 
 ## Datos personales (referencia)
 
@@ -40,15 +40,23 @@ _Referencia para relacionar lo que guardás en `conocimiento/`. Actualizalo cuan
 - Nunca llegaste a ser sedentario “completo”; el volumen de caminata + longboard es considerable.  
 - (Acá podés anotar después: fatiga, sueño, si el longboard te deja roto o fresco, etc.)
 
+## Cómo uso el plan complemento en casa (notas personales)
+
+Doc técnico/plantilla: [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md).
+
+- El longboard ya da **intervalos** y mucha pierna: ese plan **rellena** tirón, trabajo a una pierna y core estable.  
+- Con **hiperglucemia en ayunas** en estudios viejos: **consistencia moderada** suele ser más razonable que subir volumen muy agresivo sin control; si el ayunas sigue alto, **actualizar analítica** y hablar con el médico antes de apretar mucho más.  
+- Para **bajar grasa**, el peso en balanza baja sobre todo con **déficit y hábitos** (nutricionista); el complemento de fuerza ayuda a **preservar músculo** y al rendimiento en tabla.
+
 ## Temas que me interesa entender / ordenar
 
-- Cómo encajan **push, pumping y “surf suave”** en términos de esfuerzo (aeróbico, fuerza, técnica).  
+- Cómo encajan **push, pumping y “surf suave”** en términos de esfuerzo (aeróbico, fuerza, técnica): [`docs/fisiologia-y-energia/energia-aerobico-umbrales-lactato.md`](./docs/fisiologia-y-energia/energia-aerobico-umbrales-lactato.md).  
 - **Pérdida de grasa vs. rendimiento** en alguien con mucha masa muscular y peso alto en báscula.  
 - Por qué la **grasa abdominal** puede quedarse “al final” y qué palancas suelen mirarse (entrenamiento, sueño, estrés, alimentación — a profundizar con profesional).  
-- Cómo **no confundir** etiquetas de báscula/BMI con la imagen que ves en el espejo cuando hay mucho músculo.  
+- Cómo **no confundir** etiquetas de báscula/BMI con la imagen que ves en el espejo cuando hay mucho músculo: [`docs/composicion-y-metricas/peso-bmi-y-basculas.md`](./docs/composicion-y-metricas/peso-bmi-y-basculas.md).  
 - Cómo encajan **lípidos y glucosa en ayunas** con hábitos (sin autoprescripción: base para charlar con médico/nutricionista).  
-- **Circuito intermitente neuromuscular** (circuito + intervalos + carga): ver [`conocimiento/circuito-intermitente-neuromuscular.md`](./conocimiento/circuito-intermitente-neuromuscular.md).  
-- **Complemento en casa sin aparatos** (3×/sem, equilibra longboard): [`conocimiento/plan-complemento-casa-longboard.md`](./conocimiento/plan-complemento-casa-longboard.md).
+- **Circuito intermitente neuromuscular:** [`docs/metodologia/circuito-intermitente-neuromuscular.md`](./docs/metodologia/circuito-intermitente-neuromuscular.md).  
+- **Complemento en casa sin aparatos:** [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md).
 
 ## Límites o cuidados
 

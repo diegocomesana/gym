@@ -16,31 +16,26 @@ En la literatura en español a veces aparece como **circuito intermitente con so
 - **Estímulo mixto:** conviven **condición cardiovascular** (FC sube, metabolismo acelera) y **trabajo muscular** (fuerza, resistencia de fuerza).  
 - La **fatiga** puede ser **neuromuscular** (rendimiento del músculo, velocidad de ejecución), **metabólica** (lactato, sensación de ardor) y **cardiovascular** (FC, respiración), según el diseño del circuito.
 
-## Variables que el entrenador (o vos, si experimentás) ajusta
+## Variables que se ajustan
 
-- **Número de estaciones** y **órden** (alternar grupos musculares ayuda a aguantar la vuelta).  
+- **Número de estaciones** y **orden** (alternar grupos musculares ayuda a aguantar la vuelta).  
 - **Ratio trabajo:descanso** (ej. 30 s trabajo / 30 s paso al siguiente; 40:20; etc.): cambia el “sabor” de la sesión (más pulsaciones vs. más quemazón muscular).  
 - **Carga / repeticiones / técnica** por estación.  
 - **Vueltas del circuito** y **frecuencia semanal**.
 
 Los estudios con circuitos de fuerza suelen reportar que **la duración del intervalo** modula la **fatiga neuromuscular aguda** y la **respuesta cardiovascular**; no hay un único ratio “perfecto”: depende del objetivo y del nivel.
 
-## En mi caso (longboard + caminata)
+## Ejemplo ilustrativo: deporte con tabla y fases intensas/recuperación
 
-No es el mismo formato que una sesión en gym, pero **la lógica del intermitente neuromuscular** se parece a lo que ya hacés en tabla:
-
-- **Push y pumping** = fases de **alta demanda neuromuscular y metabólica** (piernas, core, coordinación).  
-- **Surfing suave** entre medio = **recuperación activa** entre picos, como el “paso” entre estaciones o el descanso incompleto en un circuito.
-
-Sirve como **mapa mental:** si algún día sumás **circuitos con sobrecarga** en casa o gimnasio, ya tenés un cuerpo acostumbrado al **onda de esfuerzo–recuperación**; el tema es **progresar carga y técnica** con cuidado (edad, articulaciones, historia analítica).
+No es el mismo formato que una sesión de gimnasio, pero **la lógica del intermitente** aparece en deportes con **ráfagas de empuje o pumping** y **fases de crucero suave** entre medias: picos de demanda neuromuscular y metabólica, alternados con **recuperación activa** (similar a pasar de estación en estación con descanso incompleto).
 
 ## Dudas para seguir aprendiendo
 
 - ¿Qué ratios trabajo:descanso encajan mejor con **fuerza** vs. con **gasto energético** en poco tiempo?  
 - ¿Cómo **medir** si la sesión fue demasiado dura (técnica que se rompe, mareos, dolor articular) vs. exigente pero sana?  
-- Si en algún momento hay **plan con profesional** (médico/entrenador), qué versión de circuito es prudente con **glucosa en ayunas** y **lípidos** históricos — eso es charla clínica, no algo que el repo resuelva solo.
+- Con **condiciones de salud** (metabolismo, medicación, etc.), qué versión de circuito es prudente — eso es decisión con profesional.
 
 ## Referencias para profundizar (lectura, no prescripción)
 
 - Literatura sobre **circuit strength training** y variación de **work-to-rest ratio** (fatiga neuromuscular aguda, FC, lactato).  
-- En español: artículos divulgativos tipo *fisiología del ejercicio* sobre **intervalos en circuito** y trabajos académicos resumidos en revistas de formación (ej. líneas citadas en bibliografía de entrenamiento en circuito intermitente con sobrecargas).
+- En español: artículos divulgativos tipo *fisiología del ejercicio* sobre **intervalos en circuito** y trabajos académicos resumidos en revistas de formación.
