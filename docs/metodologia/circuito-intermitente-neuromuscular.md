@@ -33,7 +33,7 @@ No es el mismo formato que una sesión de gimnasio, pero **la lógica del interm
 
 - ¿Qué ratios trabajo:descanso encajan mejor con **fuerza** vs. con **gasto energético** en poco tiempo?  
 - ¿Cómo **medir** si la sesión fue demasiado dura (técnica que se rompe, mareos, dolor articular) vs. exigente pero sana?  
-- Con **condiciones de salud** (metabolismo, medicación, etc.), qué versión de circuito es prudente — eso es decisión con profesional.
+- Con **condiciones de salud** o medicación, ajustar volumen e intensidad con criterio propio o externo según haga falta.
 
 ## Referencias para profundizar (lectura, no prescripción)
 

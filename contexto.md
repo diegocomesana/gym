@@ -1,6 +1,30 @@
-# Contexto — qué hago y en qué marco
+# Contexto — Diego Comesaña
 
-_Referencia **personal** para cuando quieras relacionar lo de [`docs/`](./docs/README.md) con tu vida. Los docs técnicos en sí van en `docs/`, ordenados por tema._
+**Todo este repo** está armado para que el agente sea mi **entrenador personal**: me **capacita** con respuestas claras y **define, mantiene, ajusta y hace seguimiento** de mi entrenamiento y rutinas (con la **línea de Anselmi** y lo que sigue en este archivo).
+
+Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convenciones del proyecto: [`docs/meta/guia-convenciones-y-como-aconsejar.md`](./docs/meta/guia-convenciones-y-como-aconsejar.md).
+
+## Por qué este repo y cómo lo uso
+
+- **Motivación:** material de **Horacio Anselmi**; quiero **entender** lo que propone (fuerza, planificación, calidad, etc.) **de a poco**.  
+- **Objetivo:** **no** copiar un plan de elite; **sí** incorporar la **lógica** a **mi vida** (longboard, caminata, casa **sin gym**, tiempo y salud).  
+- **Dos carriles:** este archivo = **mi realidad y rutina vigente**; **`docs/`** = biblioteca técnica; el hilo Anselmi: [`docs/referentes/horacio-anselmi-marco-y-vinculos.md`](./docs/referentes/horacio-anselmi-marco-y-vinculos.md).
+
+## Rutina y seguimiento (actualizar con el agente)
+
+- **Semana / foco actual:** (completar: p. ej. días de complemento casa, intensidad longboard, caminata).  
+- **Último ajuste acordado:** (fecha + qué cambió).  
+- **Sensación / señales:** (fatiga, sueño, algo a vigilar).
+
+## Qué voy incorporando (ideas, de a poco)
+
+- (Anotá acá decisiones concretas: hábitos, cambios de rutina, algo que hayas probado una semana y te haya servido o no.)
+
+## Pendientes / para retomar con el agente (**clave**)
+
+> Esto es **eje prioritario** del seguimiento con el agente: no es un extra opcional.
+
+- **Revisión semanal tipo entrenador:** mirar en conjunto **longboard + caminata + complemento en casa** con lente de **orden, fuerza y calidad** (línea Anselmi), **sin** inflar volumen.
 
 ## Datos personales (referencia)
 
@@ -33,8 +57,6 @@ _Referencia **personal** para cuando quieras relacionar lo de [`docs/`](./docs/R
 
 - **Colesterol:** un poco elevado según análisis de esa época (valores exactos y fecha: anotar acá cuando los tengas a mano).  
 - **Glucosa en ayunas:** **hiperglucemia** en ese contexto; **no** consta diagnóstico de diabetes (seguimiento y criterio médico).  
-- _Esto es solo memoria para el repo; decisiones clínicas siempre con profesional._
-
 ## Ritmo y sensación general
 
 - Nunca llegaste a ser sedentario “completo”; el volumen de caminata + longboard es considerable.  
@@ -50,11 +72,12 @@ Doc técnico/plantilla: [`docs/planes/plan-complemento-casa-longboard.md`](./doc
 
 ## Temas que me interesa entender / ordenar
 
+- **Línea Horacio Anselmi** (qué predica, cómo se enlaza con otros temas): [`docs/referentes/horacio-anselmi-marco-y-vinculos.md`](./docs/referentes/horacio-anselmi-marco-y-vinculos.md).  
 - Cómo encajan **push, pumping y “surf suave”** en términos de esfuerzo (aeróbico, fuerza, técnica): [`docs/fisiologia-y-energia/energia-aerobico-umbrales-lactato.md`](./docs/fisiologia-y-energia/energia-aerobico-umbrales-lactato.md).  
 - **Pérdida de grasa vs. rendimiento** en alguien con mucha masa muscular y peso alto en báscula.  
 - Por qué la **grasa abdominal** puede quedarse “al final” y qué palancas suelen mirarse (entrenamiento, sueño, estrés, alimentación — a profundizar con profesional).  
 - Cómo **no confundir** etiquetas de báscula/BMI con la imagen que ves en el espejo cuando hay mucho músculo: [`docs/composicion-y-metricas/peso-bmi-y-basculas.md`](./docs/composicion-y-metricas/peso-bmi-y-basculas.md).  
-- Cómo encajan **lípidos y glucosa en ayunas** con hábitos (sin autoprescripción: base para charlar con médico/nutricionista).  
+- Cómo encajan **lípidos y glucosa en ayunas** con hábitos.  
 - **Circuito intermitente neuromuscular:** [`docs/metodologia/circuito-intermitente-neuromuscular.md`](./docs/metodologia/circuito-intermitente-neuromuscular.md).  
 - **Complemento en casa sin aparatos:** [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md).
 

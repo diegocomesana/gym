@@ -48,7 +48,6 @@ En la vida real **conviven** los tres; lo que cambia es **cuál manda** según i
 - En **esfuerzo fuerte** sube la **dependencia de carbohidrato** (sangre + músculo).  
 - Por eso **entrenar no es “quemar solo grasa” o “solo azúcar”:** es una **mezcla** que se inclina según intensidad y tiempo.
 
-*(Si hay alteración de glucosa en ayunas u otra condición metabólica, el ejercicio **sí** usa glucosa cuando la intensidad lo pide; lo clínico y las decisiones van con profesional de salud.)*
 
 ---
 

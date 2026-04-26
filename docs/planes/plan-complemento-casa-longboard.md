@@ -1,6 +1,6 @@
 # Complemento en casa (sin aparatos) — equilibrio para longboard
 
-> **Ámbito:** plan **tipo** para quien tiene el **longboard** (o patín de crucero/pumping) como eje principal más **caminata** habitual. Ajustar según nivel, lesiones y criterio profesional. Lo que es **personal** (salud, decisiones) va aparte, en notas propias fuera de este doc.
+> **Ámbito:** plan **tipo** para quien tiene el **longboard** (o patín de crucero/pumping) como eje principal más **caminata** habitual. Ajustar según nivel y lesiones. Lo **personal** (salud, decisiones) puede ir en notas aparte.
 
 ## Qué suele faltar cuando el eje es longboard
 

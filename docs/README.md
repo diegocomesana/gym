@@ -1,14 +1,16 @@
 # Documentación técnica (`docs/`)
 
-Material de **referencia por tema**: conceptos de preparación física, metodología, métricas, planes tipo. Los archivos se **actualizan o amplían** cuando surge una pregunta técnica; se evita mezclar temas en un solo archivo gigante.
+Biblioteca técnica del **entrenador personal de Diego Comesaña**: conceptos por tema, metodología, planes tipo. Se **actualiza** con las preguntas y el seguimiento; referentes (ej. Anselmi) en `referentes/`; detalle en la carpeta que corresponda.
 
 ## Carpetas
 
 | Carpeta | Contenido |
 |---------|-----------|
+| [`meta/`](./meta/) | **Convenciones del proyecto** y cómo debe aconsejar el agente (guía viva) |
+| [`referentes/`](./referentes/) | Marco de **autores o líneas** que orientan el aprendizaje (resúmenes propios + enlaces a docs del repo) |
 | [`fisiologia-y-energia/`](./fisiologia-y-energia/) | Aeróbico/anaeróbico, glucosa, umbrales, lactato, etc. |
 | [`metodologia/`](./metodologia/) | Formas de entrenar (circuitos, intervalos, etc.) |
 | [`composicion-y-metricas/`](./composicion-y-metricas/) | Peso, IMC, básculas, composición (marco general) |
 | [`planes/`](./planes/) | Programas o plantillas **tipo** (ej. complemento para patrón longboard + caminata) |
 
-Lo **personal** (tu historia, salud, decisiones) va en [`contexto.md`](../contexto.md), no en estos docs.
+El **estado del entrenamiento** y lo personal van en [`contexto.md`](../contexto.md).

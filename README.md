@@ -1,34 +1,19 @@
-# Conocimiento deportivo (personal)
+# Gym — entrenador personal (Diego Comesaña)
 
-Repo para **guardar lo que vas aprendiendo** y **atarlo a lo que realmente hacés**, para que las ideas no queden sueltas y puedas ver sentido con el tiempo. No está pensado como bitácora ni log de entrenamientos.
+Repo **personal** de **Diego Comesaña**. Todo lo que se carga acá sirve para que el **agente en Cursor** actúe como su **entrenador personal**.
 
-## Para qué es este repo (y el agente en Cursor)
+## Rol del agente
 
-1. **Capacitación:** preguntas rápidas sobre preparación física y entrenamiento — respuestas **cortas y al pie** primero; **más detalle** si lo pedís. **Por defecto** el agente responde **sin** colgar todo de tu entrenamiento: primero el concepto claro; **si pedís**, relaciona con `contexto.md` y lo que hacés.
-2. **Plan vivo:** ir **armando y mejorando** el entrenamiento y **afinarlo según resultados** cuando **lo pidas** (energía, estancamiento, lesiones, etc.).
-3. **Docs técnicos:** las preguntas **técnicas** se vuelcan en [`docs/`](./docs/README.md) **por temas**, ordenadas y coherentes con lo ya escrito (no un solo archivo mezclado).
+1. **Capacitar a Diego Comesaña:** responder preguntas sobre preparación física y entrenamiento (corto y al pie primero; más detalle si pide).  
+2. **Entrenamiento:** **definir, mantener, ajustar y hacer seguimiento** del entrenamiento **diario** y las **rutinas**, en línea con **Horacio Anselmi** y el archivo **`contexto.md`**.
 
-La misma idea para el asistente queda en [`.cursor/rules/gym-repo-y-agente.mdc`](.cursor/rules/gym-repo-y-agente.mdc) (`alwaysApply`).
+## Archivos
 
-## Cómo usarlo
+- **`contexto.md`** — Realidad de Diego Comesaña, salud, objetivos y **estado vigente** del entrenamiento (lo van actualizando juntos con el agente).  
+- **`docs/`** — Conceptos y planes tipo, ordenados por tema: [índice](docs/README.md).  
+- **Reglas del agente:** [`.cursor/rules/gym-repo-y-agente.mdc`](.cursor/rules/gym-repo-y-agente.mdc). Convenciones amplias: [`docs/meta/guia-convenciones-y-como-aconsejar.md`](docs/meta/guia-convenciones-y-como-aconsejar.md).
 
-1. **`docs/`** — Conceptos y referencias **por carpeta/tema** (fisiología, metodología, métricas, planes tipo). Es la “biblioteca” técnica del repo.
-2. **`contexto.md`** — Tu situación: qué hacés, ritmo, salud, objetivos. Para **relacionar** lo aprendido con tu vida cuando **vos** decidís hacer ese puente (o cuando se lo pedís al agente).
-3. **Relación personal** — Podés anotar en `contexto.md` cómo un doc de `docs/` aplica a vos; los docs en sí se mantienen **lo más generales posible**.
+## Convenciones (breve)
 
-## Estructura
-
-```
-docs/             # documentación técnica por tema (ver docs/README.md)
-contexto.md       # tu marco personal y enlaces a temas que te interesan
-```
-
-## Convenciones sugeridas (todas opcionales)
-
-- Nuevos temas técnicos → nuevo archivo bajo la carpeta de `docs/` que corresponda.  
-- En `contexto.md`, viñetas que apunten a rutas: [`docs/fisiologia-y-energia/...`](./docs/fisiologia-y-energia/energia-aerobico-umbrales-lactato.md).  
-- Si dos docs se relacionan, enlace relativo entre ellos.
-
----
-
-Si una convención te frena, ignorala. El objetivo es que acumular conocimiento te organice la cabeza, no que mantengas un diario.
+- Preguntas técnicas → reflejarlas en `docs/` en la carpeta que corresponda.  
+- Revisión semanal (longboard + caminata + complemento, orden/fuerza/calidad): **clave** — ver `contexto.md` → *Pendientes*.
