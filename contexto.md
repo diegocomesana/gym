@@ -12,9 +12,13 @@ Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convencion
 
 ## Rutina y seguimiento (actualizar con el agente)
 
-- **Semana / foco actual:** (completar: p. ej. días de complemento casa, intensidad longboard, caminata).  
-- **Último ajuste acordado:** (fecha + qué cambió).  
-- **Sensación / señales:** (fatiga, sueño, algo a vigilar).
+- **Semana / foco actual (base):**  
+  - **Casi todos los días:** ~1 h **caminata** + **longboard** (~5 km base + salidas cortas), patrón **push / pumping fuerte / surfing suave** + algo de dancing/trucos cuando entra.  
+  - **3×/semana** (ideal **no** tres días seguidos): **complemento en casa** — circuitos A y B como en [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md) (40/20, 3 vueltas al inicio). Días tipo: **lun · mié · vie** (ajustable).  
+  - **Corrida:** opcional cuando haya ganas; no es eje.  
+  - **Lente Anselmi esta semana:** **orden** (cada bloque tiene sentido: base aeróbica + picos + fuerza en casa), **fuerza** (no saltarse el complemento si el cuerpo está bien), **calidad** (técnica que no se rompe; surf suave cuenta como parte del entreno).  
+- **Último ajuste acordado:** 2026-04-26 — primera versión escrita de rutina vigente + días sugeridos para complemento.  
+- **Sensación / señales:** (Diego: completar — sueño, rodillas, “¿el pumping me deja fundido?”, etc.).
 
 ## Qué voy incorporando (ideas, de a poco)
 
@@ -49,7 +53,7 @@ Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convencion
 ## Objetivos (orden mental, no prescripción)
 
 - Bajar del orden de **~10 kg** y sobre todo **mejorar de verdad** (no solo “mantenerse en forma”): más ágil, sano, con menos grasa — la zona abdominal es una prioridad estética/sensación.  
-- Dar **orden al entrenamiento** sin convertirlo en una carga: entender qué hace cada cosa que ya hacés (longboard, caminata, etc.).  
+- Dar **orden al entrenamiento** sin convertirlo en una carga: entender qué hace cada cosa que ya hace (longboard, caminata, etc.).  
 - **Nutrición:** interés en consultar con nutricionista para validar que todo esté bien y alinear ingesta con objetivos de composición corporal y salud (aún no consulta hecha).  
 - **Laboratorio:** conviene **actualizar estudios** con médico de cabecera o especialista y cruzar con dieta/actividad (ver abajo).
 
@@ -57,6 +61,7 @@ Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convencion
 
 - **Colesterol:** un poco elevado según análisis de esa época (valores exactos y fecha: anotar acá cuando los tengas a mano).  
 - **Glucosa en ayunas:** **hiperglucemia** en ese contexto; **no** consta diagnóstico de diabetes (seguimiento y criterio médico).  
+
 ## Ritmo y sensación general
 
 - Nunca llegaste a ser sedentario “completo”; el volumen de caminata + longboard es considerable.  
