@@ -47,7 +47,8 @@ _Referencia para relacionar lo que guardás en `conocimiento/`. Actualizalo cuan
 - Por qué la **grasa abdominal** puede quedarse “al final” y qué palancas suelen mirarse (entrenamiento, sueño, estrés, alimentación — a profundizar con profesional).  
 - Cómo **no confundir** etiquetas de báscula/BMI con la imagen que ves en el espejo cuando hay mucho músculo.  
 - Cómo encajan **lípidos y glucosa en ayunas** con hábitos (sin autoprescripción: base para charlar con médico/nutricionista).  
-- **Circuito intermitente neuromuscular** (circuito + intervalos + carga): ver [`conocimiento/circuito-intermitente-neuromuscular.md`](./conocimiento/circuito-intermitente-neuromuscular.md).
+- **Circuito intermitente neuromuscular** (circuito + intervalos + carga): ver [`conocimiento/circuito-intermitente-neuromuscular.md`](./conocimiento/circuito-intermitente-neuromuscular.md).  
+- **Complemento en casa sin aparatos** (3×/sem, equilibra longboard): [`conocimiento/plan-complemento-casa-longboard.md`](./conocimiento/plan-complemento-casa-longboard.md).
 
 ## Límites o cuidados
 
