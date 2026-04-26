@@ -1,78 +1,96 @@
-# Complemento en casa (sin aparatos) — equilibrio para longboard
+# Complemento en casa — longboard + prioridad lumbar
 
-> **Ámbito:** plan **tipo** para quien tiene el **longboard** (o patín de crucero/pumping) como eje principal más **caminata** habitual. Ajustar según nivel y lesiones. Lo **personal** (salud, decisiones) puede ir en notas aparte.
+> **Ámbito:** plan para quien patina **longboard** y camina seguido, con **historial de lumbalgia** (controlada con movilidad de cadera / piriforme y trabajo consciente de zona media). Incluye **mancuernas** y **barra liviana** donde suman. Ajustar según sensación del día.
 
-## Qué suele faltar cuando el eje es longboard
+## Qué equilibra
 
-- **Tirón / espalda alta:** el push y el pumping cargan empuje y piernas; sin tirón horizontal o vertical el hombro y la escápula pueden desbalancearse con el tiempo.  
-- **Cadena posterior en lentitud:** bisagra de cadera y glúteo con **control** (no solo explosividad del pumping).  
-- **Estabilidad una pierna:** el patín es asimétrico; conviene **fuerza y equilibrio** en cada pierna por separado.  
-- **Core “anti-rotación”:** el baile y el pumping rotan; falta a veces **rigidez** del tronco en otros planos (anti-extensión, anti-lateral).  
-- **Movilidad activa cadera y tobillos:** para seguir bajando bien en dancing y cuidar rodillas.
+- **Tirón / espalda:** compensar el empuje del patín.  
+- **Glúteo + cadena posterior** sin forzar bisagras agresivas.  
+- **Core anti-extensión y anti-lateral** (bird dog, planchas, dead bug).  
+- **Una pierna** sin perder pelvis neutra.  
+- **Movilidad cadera** (piriforme / figura 4) alineada con lo que suele funcionar en lumbalgia mecánica leve.
 
-Este plan **no reemplaza** el longboard ni la caminata: **suma** 3 sesiones cortas/semana para desestancar fuerza, postura y resiliencia.
+Este bloque **suma** al **longboard** (y a la caminata solo si la usás); **3 sesiones/semana** de circuito, **no** tres días seguidos al arrancar.
 
 ---
 
 ## Reglas generales
 
-- **Frecuencia:** 3 días/semana, **no seguidos** (ej.: lun–mié–vie o mar–jue–sáb).  
-- **Día de longboard fuerte:** se puede hacer el complemento **en otro momento del día** o ese día hacer solo **Movilidad** (10 min del final).  
-- **Intensidad:** esfuerzo **7/10** en el trabajo; si la técnica se rompe, parar antes.  
-- **Progresión (cada 2–3 semanas):** +1 vuelta al circuito **o** +5 s por ejercicio **o** versión más difícil (indicada abajo). No las tres a la vez.
+- **Frecuencia:** 3 días/semana (ej. lun · mié · vie).  
+- **Intensidad:** ~**7/10**; si la **lumbar** pincha o la técnica se rompe → **parar** ese ejercicio y seguir con lo que sea indoloro.  
+- **Progresión (cada 2–3 semanas):** +1 vuelta **o** +5 s por estación **o** un paso más difícil en **un solo** ejercicio.  
+- **Barra liviana:** solo en movimientos donde la espalda se mantenga **neutra** y el rango sea **corto** al principio (ej. remo inclinado muy controlado). Si no hay confianza ese día → solo mancuernas / peso corporal.
 
 ---
 
-## Calentamiento (5 min) — antes de A o B
+## Calentamiento (6–7 min) — antes de A o B
 
-1. **Círculos de tobillos y rodillas** — 30 s cada lado.  
-2. **Sentadillas sin peso** — 10 reps, bajando despacio.  
-3. **Puente de glúteos** — 12 reps, apretar glúteo arriba.  
-4. **Gato–vaca** o movilidad dorsal — 8 ciclos.  
-5. **Marcha en el lugar** elevando rodillas — 45 s.
+1. **Gato–vaca** — 10 ciclos lentos.  
+2. **Figura 4 / glúteo–piriforme** en el suelo o sentado — **30 s** cada pierna, sin forzar.  
+3. **Sentadilla de cuerpo entero** — 10 reps, profundidad cómoda, pecho alto.  
+4. **Puente de glúteos** — 12 reps, 1 s arriba apretando glúteo.  
+5. **Bird dog muy corto** — 4 reps lentas por lado (sin balancear).  
+6. **Marcha en el lugar** rodillas altas — **40 s**.
 
 ---
 
 ## Circuito A — fuerza + tirón + una pierna
 
-Formato **intermitente:** **40 s trabajo / 20 s pasar al siguiente ejercicio.**  
-Completar la lista = **1 vuelta.** Descansar **2 min.** Repetir **3 vueltas** al inicio; después **4 vueltas** si va cómodo.
+**Formato:** **40 s trabajo / 20 s** pasar a la siguiente. **1 vuelta** = los 6 ejercicios. **2 min** entre vueltas. **3 vueltas** (luego 4 si va bien).
 
 | Orden | Ejercicio | Notas |
 |------|-----------|--------|
-| 1 | **Sentadilla profunda** (o bajar hasta tocar silla y subir) | Pecho alto, peso en el centro del pie. |
-| 2 | **Flexiones** (rodillas apoyadas si hace falta) | Codos a 45°, cuerpo rígido. |
-| 3 | **Remo invertido en mesa** (sólo si la mesa es **muy** firme; si no: **Y-T-W en el piso** boca abajo) | En remo: cuerpo recto, tirar el pecho hacia el borde. En Y-T-W: brazos en Y, luego T, luego W, sin perder cuello. |
-| 4 | **Zancada atrás** (alternando pierna cada vuelta o cada rep) | Rodilla delantera no se mete adentro del pie. |
-| 5 | **Plancha lateral** | 20 s un lado en la 1.ª vuelta, 20 s el otro en la 2.ª, o 40 s total alternando. |
-| 6 | **Puente una pierna** (12 s por pierna en los 40 s) | Caderas alineadas, sin girar la pelvis. |
+| 1 | **Sentadilla** (silla o libre) | Lumbar neutra; no redondear al bajar. |
+| 2 | **Flexión** (rodillas o **inclinada sobre mesa/banco** si la lumbar no tolera plancha alta) | Cuerpo en línea; codos ~45°. |
+| 3 | **Tirón:** **remo mancuerna** a una mano (bisagra suave, mano libre en silla) **o** remo mesa firme **o** **Y-T-W** boca abajo | Escápula que se mueve; **no** colapsar redondo. Cambiar de mano a mitad de los 40 s si es remo. |
+| 4 | **Zancada atrás** | Paso **moderado**; rodilla delantera estable; torso alto. Si la lumbar protesta → **zancada más corta** o menos profundidad. |
+| 5 | **Plancha lateral desde rodilla** | Cuerpo alineado; **20 s** un lado en una vuelta, **20 s** el otro en la siguiente (o alternar en los 40 s). Si molesta → **plancha frontal corta** en rodillas. |
+| 6 | **Puente de glúteos** una pierna **o bilateral** con pausa | Una pierna solo si la pelvis **no** se tuerce; si no, **bilateral** 40 s con pausa 2 s arriba. |
 
-**Progresión A:** flexiones más bajas; zancada con más rango; 45/15 en lugar de 40/20.
+**Progresión A:** más reps de flexión; zancada un poco más larga; plancha lateral con pierna extendida (cuando la lateral en rodilla sea sólida).
 
 ---
 
-## Circuito B — bisagra + core + estabilidad
+## Circuito B — lumbar-friendly (bisagra suave + estabilidad)
 
-Mismo formato: **40/20**, **3–4 vueltas**, **2 min** entre vueltas.
+**Mismo formato** 40/20, **3 vueltas**, **2 min** entre vueltas.  
+**Sin good morning clásico** de entrada: se sustituye por **bird dog** + **bisagra corta opcional** al final del mes si todo va bien.
 
 | Orden | Ejercicio | Notas |
 |------|-----------|--------|
-| 1 | **Good morning de pie** (manos nuca, bisagra de cadera, espalda neutra) | Tensión isquios/glúteo, no dolor lumbar. |
-| 2 | **Elevación de cadera / “hip thrust”** con espalda en sofá o borde firme | Si no hay borde: **puente bilateral** 40 s con pausa 1 s arriba. |
-| 3 | **Dead bug** (lento) | Lumbar pegada al suelo, piernas 90°–90°. |
-| 4 | **Sentadilla búlgara** (pie atrás en silla baja) | Delantero es la pierna “trabajo”; torso erguido. |
-| 5 | **Hollow suave** (rodillas flexionadas si la espalda se arquea) | “Pecho hacia el ombligo”, 20–30 s mantenido dentro de los 40 s. |
-| 6 | **Elevación talones una pierna** (alternando en los 40 s) | Para pantorrilla y tobillo; apoyo en pared si hace falta. |
+| 1 | **Bird dog** | **20 s** un lado + **20 s** el otro dentro de los 40 s. Extender brazo/pierna **sin** arquear lumbar; movimiento lento. |
+| 2 | **Puente de glúteos** o **hip thrust** espalda en borde estable | Si hip thrust molesta la espalda baja al montar → quedarse en **puente bilateral** con pausa arriba. |
+| 3 | **Dead bug** | Espalda baja pegada; piernas 90-90; bajar una pierna si se mantiene contacto. |
+| 4 | **Sentadilla búlgara** | **Rango corto al principio** (muslo delantero casi paralelo o menos); torso erguido; pierna trasera para apoyo. |
+| 5 | **Plancha frontal** (rodillas al suelo si hace falta) | **30–40 s** total; ombligo “hacia arriba”, glúteos suaves. **No** hollow agresivo al inicio. |
+| 6 | **Elevación de talón** una pierna (apoyo en pared) | Alternar en los 40 s; tobillos y ritmo. |
 
-**Progresión B:** hollow con piernas más extendidas; búlgara más profunda; good morning más rango sin perder neutro.
+**Opcional (día que la espalda se sienta 10/10):** cambiar el **bird dog** de la 1.ª estación por **bisagra con mancuernas livianas** (ROM **corto**, 8–10 reps controladas en 40 s) **o** **good morning con palo** (contacto sacro–entre–escápulas, **muy poco** ángulo). A la primera señal rara → volver a bird dog.
+
+**Progresión B:** bird dog con pausa arriba; búlgara un poco más profunda; plancha con rodillas al aire cuando la frontal en rodillas sea fácil.
 
 ---
 
-## Movilidad corta (10 min) — 1–2×/semana o post-patinada dura
+## Tirón extra con mancuernas (1–2×/semana, 5 min, fuera del circuito o al final)
 
-- **Flexores de cadera:** zancada baja con glúteo apretado, 60 s/lado.  
-- **Aductores:** sentado o apoyo lateral, respiración lenta.  
-- **Tobillos:** rodilla al frente del tobillo en estocada corta, 8–10 reps/lado.
+- **Remo inclinado dos mancuernas:** bisagra desde cadera, espalda larga, codos hacia atrás, **12–15 reps × 2–3 series**, peso que permita **cero** redondeo.  
+- **Press de hombro sentado** o **en pie** con core apretado: **8–12 reps × 2 series** (no arquear costillas hacia adelante).
+
+---
+
+## Cierre (3–4 min) — post circuito o post longboard fuerte
+
+1. **Figura 4** — 45 s por pierna.  
+2. **Gato–vaca** — 8 ciclos.  
+3. **Estiramiento suave de isquios** de pie o tumbado — 30 s por pierna (sin dolor agudo).
+
+---
+
+## Movilidad larga (10 min) — 1–2×/semana
+
+- Zancada baja **con glúteo del trasero apretado** (flexor + control), 60 s/lado.  
+- Aductores suaves, respiración lenta.  
+- Tobillo en estocada corta, 8–10 reps/lado.
 
 ---
 
@@ -81,10 +99,14 @@ Mismo formato: **40/20**, **3–4 vueltas**, **2 min** entre vueltas.
 | Día | Idea |
 |-----|------|
 | L | Circuito A |
-| M | Solo longboard + caminata (como siempre) |
+| M | Longboard (caminata opcional) |
 | X | Circuito B |
-| J | Solo longboard + caminata |
-| V | Circuito A o B (el que no se hizo 2 veces) |
-| S / D | Movilidad opcional + descanso activo |
+| J | Longboard (caminata opcional) |
+| V | A o B (el que falte repetir 2.ª vez) |
+| S / D | Movilidad opcional + cierre piriforme/gato-vaca |
 
-Ajustar los días a la vida real; lo importante es **3 sesiones** de circuito y **no** hacerlas todas seguidas al principio.
+---
+
+## Nota para Diego Comesaña
+
+Este archivo reemplaza la versión anterior del plan: **prioriza lumbalgia**, **bird dog / planchas / dead bug** antes que bisagras largas, y mete **mancuernas** en tirón y opciones livianas. El seguimiento vivo sigue en **`contexto.md`**.

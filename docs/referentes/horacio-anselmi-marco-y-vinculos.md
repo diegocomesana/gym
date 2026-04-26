@@ -42,6 +42,7 @@ Sirve como **hilo conductor**: muchas preguntas técnicas que vayas haciendo enc
 | Esfuerzo duro + suave, intervalos | [`../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md`](../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md) |
 | Circuitos, trabajo denso en poco tiempo | [`../metodologia/circuito-intermitente-neuromuscular.md`](../metodologia/circuito-intermitente-neuromuscular.md) |
 | Complemento sin gimnasio (fuerza general) | [`../planes/plan-complemento-casa-longboard.md`](../planes/plan-complemento-casa-longboard.md) |
+| Día a día, esfuerzos cortos, disfrute (Diego) | [`anselmi-vida-diaria-movimiento-distribuido.md`](./anselmi-vida-diaria-movimiento-distribuido.md) |
 
 ---
 
