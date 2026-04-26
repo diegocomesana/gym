@@ -1,112 +1,202 @@
-# Complemento en casa — longboard + prioridad lumbar
+# Plan diario — longboard (eje) + complemento en casa
 
-> **Ámbito:** plan para quien patina **longboard** y camina seguido, con **historial de lumbalgia** (controlada con movilidad de cadera / piriforme y trabajo consciente de zona media). Incluye **mancuernas** y **barra liviana** donde suman. Ajustar según sensación del día.
-
-## Qué equilibra
-
-- **Tirón / espalda:** compensar el empuje del patín.  
-- **Glúteo + cadena posterior** sin forzar bisagras agresivas.  
-- **Core anti-extensión y anti-lateral** (bird dog, planchas, dead bug).  
-- **Una pierna** sin perder pelvis neutra.  
-- **Movilidad cadera** (piriforme / figura 4) alineada con lo que suele funcionar en lumbalgia mecánica leve.
-
-Este bloque **suma** al **longboard** (y a la caminata solo si la usás); **3 sesiones/semana** de circuito, **no** tres días seguidos al arrancar.
+> **Lumbalgia activa:** si la zona lumbar pica o está tensa ese día → priorizá el Circuito B, reducí rango en bisagras, y sumá más figura 4. Si está muy mal, solo calentamiento + cierre y dejalo ahí.
 
 ---
 
-## Reglas generales
+## Cómo funciona
 
-- **Frecuencia:** 3 días/semana (ej. lun · mié · vie).  
-- **Intensidad:** ~**7/10**; si la **lumbar** pincha o la técnica se rompe → **parar** ese ejercicio y seguir con lo que sea indoloro.  
-- **Progresión (cada 2–3 semanas):** +1 vuelta **o** +5 s por estación **o** un paso más difícil en **un solo** ejercicio.  
-- **Barra liviana:** solo en movimientos donde la espalda se mantenga **neutra** y el rango sea **corto** al principio (ej. remo inclinado muy controlado). Si no hay confianza ese día → solo mancuernas / peso corporal.
+| Pieza | Frecuencia | Para qué |
+|-------|------------|----------|
+| **Longboard** | **Todos los días** (es tu eje) | Base aeróbica + interválica + pierna + equilibrio |
+| **Complemento en casa** | **3 veces/semana** | Tirón, core estable, glúteo directo — lo que el longboard no cubre |
+| **Días sin circuito** | Los otros 4 días | Solo tabla; la recuperación activa cuenta |
+
+El longboard **no es el día de descanso** entre circuitos: es lo que hacés siempre. El circuito *suma* arriba de eso.
 
 ---
 
-## Calentamiento (6–7 min) — antes de A o B
+## Estructura semanal
 
-1. **Gato–vaca** — 10 ciclos lentos.  
-2. **Figura 4 / glúteo–piriforme** en el suelo o sentado — **30 s** cada pierna, sin forzar.  
-3. **Sentadilla de cuerpo entero** — 10 reps, profundidad cómoda, pecho alto.  
-4. **Puente de glúteos** — 12 reps, 1 s arriba apretando glúteo.  
-5. **Bird dog muy corto** — 4 reps lentas por lado (sin balancear).  
-6. **Marcha en el lugar** rodillas altas — **40 s**.
+| Día | Longboard | En casa |
+|-----|-----------|---------|
+| **Lunes** | ✓ tabla | Circuito A |
+| **Martes** | ✓ tabla | — (solo tabla, recuperación) |
+| **Miércoles** | ✓ tabla | Circuito B |
+| **Jueves** | ✓ tabla | — (solo tabla, recuperación) |
+| **Viernes** | ✓ tabla | A o B (el que quede) |
+| **Sábado** | ✓ tabla | Movilidad larga opcional (10 min) |
+| **Domingo** | ✓ tabla | Cierre piriforme/gato-vaca opcional |
+
+> Si un día no podés o no querés tabla, va igual el circuito si te toca. El orden L/M/X/J/V es orientativo: lo que importa es no poner 3 circuitos seguidos.
+
+---
+
+## Calentamiento — 6–7 min (antes de cualquier circuito)
+
+### 1. Gato–vaca — 10 ciclos lentos
+**Músculos:** moviliza toda la columna, activa erector espinal y abdominales de forma suave.  
+En cuatro patas: al inhalar, dejás caer el abdomen y subís la cabeza (vaca); al exhalar, redondeás la espalda empujando hacia arriba con el ombligo (gato). Lento, sin forzar rango.  
+🎥 [Video — técnica completa](https://www.youtube.com/watch?v=FvrUJja1PFI)
+
+### 2. Piriforme en prono (postura de la paloma) — 30 s cada pierna
+**Músculos:** piriforme, glúteo medio, rotadores externos de cadera.  
+**Tu versión habitual:** boca abajo, una pierna cruzada al frente con la rodilla doblada hacia el pecho, la otra extendida atrás. El peso del cuerpo profundiza el estiramiento. Más efectivo que la versión boca arriba si el piriforme ya lo tolera.  
+**Versión suave** (si ese día la cadera o la espalda viene sensible): boca arriba, cruzás el tobillo sobre la rodilla contraria y tirás suavemente la pierna de abajo hacia el pecho.  
+🎥 [Video — piriforme en prono](https://www.youtube.com/shorts/TqVc0qwDucA)
+
+### 3. Sentadilla de cuerpo entero — 10 reps
+**Músculos:** cuádriceps, glúteos, isquios, moviliza cadera y tobillo.  
+Pies al ancho de hombros o un poco más, punteras levemente afuera. Bajás con pecho alto y espalda neutra hasta donde llegues cómodo. No dejes que las rodillas se cierren adentro.  
+🎥 [Video — técnica completa](https://www.youtube.com/watch?v=WmcNv8w6Zaw)
+
+### 4. Puente de glúteos — 12 reps, 1 s arriba
+**Músculos:** glúteo mayor, isquiotibiales, core.  
+Acostado boca arriba, rodillas dobladas, pies apoyados. Subís la cadera apretando el glúteo al llegar arriba, 1 segundo de pausa, bajás controlado. La espalda baja no debe despegarse al bajar.
+
+### 5. Bird dog muy corto — 4 reps lentas por lado
+**Músculos:** erector espinal, glúteos, deltoides, core profundo.  
+En cuatro patas: extendés el brazo derecho y la pierna izquierda a la vez, lento, sin que la pelvis se rote ni la espalda lumbar se arquee. Volvés y cambiás. No importa la altura, importa la estabilidad.  
+🎥 [Video — CuídatePlus español](https://www.youtube.com/watch?v=Rn0SFzJzhQc)
+
+### 6. Marcha en el lugar rodillas altas — 40 s
+**Músculos:** flexores de cadera, abdominales, elevación de frecuencia cardíaca.  
+Levantás las rodillas alternadas a la altura de la cadera, ritmo moderado. Podés llevar los brazos en oposición.
 
 ---
 
 ## Circuito A — fuerza + tirón + una pierna
 
-**Formato:** **40 s trabajo / 20 s** pasar a la siguiente. **1 vuelta** = los 6 ejercicios. **2 min** entre vueltas. **3 vueltas** (luego 4 si va bien).
-
-| Orden | Ejercicio | Notas |
-|------|-----------|--------|
-| 1 | **Sentadilla** (silla o libre) | Lumbar neutra; no redondear al bajar. |
-| 2 | **Flexión** (rodillas o **inclinada sobre mesa/banco** si la lumbar no tolera plancha alta) | Cuerpo en línea; codos ~45°. |
-| 3 | **Tirón:** **remo mancuerna** a una mano (bisagra suave, mano libre en silla) **o** remo mesa firme **o** **Y-T-W** boca abajo | Escápula que se mueve; **no** colapsar redondo. Cambiar de mano a mitad de los 40 s si es remo. |
-| 4 | **Zancada atrás** | Paso **moderado**; rodilla delantera estable; torso alto. Si la lumbar protesta → **zancada más corta** o menos profundidad. |
-| 5 | **Plancha lateral desde rodilla** | Cuerpo alineado; **20 s** un lado en una vuelta, **20 s** el otro en la siguiente (o alternar en los 40 s). Si molesta → **plancha frontal corta** en rodillas. |
-| 6 | **Puente de glúteos** una pierna **o bilateral** con pausa | Una pierna solo si la pelvis **no** se tuerce; si no, **bilateral** 40 s con pausa 2 s arriba. |
-
-**Progresión A:** más reps de flexión; zancada un poco más larga; plancha lateral con pierna extendida (cuando la lateral en rodilla sea sólida).
+**Formato:** 40 s trabajo / 20 s para pasar. 1 vuelta = los 6 ejercicios. 2 min entre vueltas. Arrancá con **2 vueltas**, pasá a 3 cuando se sienta manejable.
 
 ---
 
-## Circuito B — lumbar-friendly (bisagra suave + estabilidad)
+### A1. Sentadilla
+**Músculos:** cuádriceps (principal), glúteos, isquios, core estabilizador.  
+Igual que en el calentamiento pero ahora como trabajo. Si tenés mancuernas a mano, las podés sostener a los costados o al pecho para agregar carga. Variante más fácil: sentarse en una silla y volver a pararse (sirve igual).  
+**Lumbar:** si la espalda molesta al bajar, reducí la profundidad. Nunca redondear abajo.  
+🎥 [Video — técnica completa](https://www.youtube.com/watch?v=WmcNv8w6Zaw)
 
-**Mismo formato** 40/20, **3 vueltas**, **2 min** entre vueltas.  
-**Sin good morning clásico** de entrada: se sustituye por **bird dog** + **bisagra corta opcional** al final del mes si todo va bien.
+### A2. Flexión (push-up)
+**Músculos:** pectorales, tríceps, deltoides anterior, core.  
+Cuerpo en línea recta de cabeza a talones, codos a ~45° del torso (no completamente abiertos). Bajás hasta casi tocar el piso, subís sin que la cadera se hunda ni el culo suba.  
+**Versión más fácil:** rodillas apoyadas o manos sobre una mesa/banco. Empezá por donde puedas hacer bien las reps, no mal muchas.
 
-| Orden | Ejercicio | Notas |
-|------|-----------|--------|
-| 1 | **Bird dog** | **20 s** un lado + **20 s** el otro dentro de los 40 s. Extender brazo/pierna **sin** arquear lumbar; movimiento lento. |
-| 2 | **Puente de glúteos** o **hip thrust** espalda en borde estable | Si hip thrust molesta la espalda baja al montar → quedarse en **puente bilateral** con pausa arriba. |
-| 3 | **Dead bug** | Espalda baja pegada; piernas 90-90; bajar una pierna si se mantiene contacto. |
-| 4 | **Sentadilla búlgara** | **Rango corto al principio** (muslo delantero casi paralelo o menos); torso erguido; pierna trasera para apoyo. |
-| 5 | **Plancha frontal** (rodillas al suelo si hace falta) | **30–40 s** total; ombligo “hacia arriba”, glúteos suaves. **No** hollow agresivo al inicio. |
-| 6 | **Elevación de talón** una pierna (apoyo en pared) | Alternar en los 40 s; tobillos y ritmo. |
+### A3. Remo mancuerna a una mano
+**Músculos:** dorsal ancho (principal), romboides, trapecio medio, bíceps.  
+Apoyás una mano en el respaldo de una silla o mesa firme, pie del mismo lado también apoyado. Espalda en bisagra suave (no redonda). La mancuerna cuelga y la tirás hacia la cadera llevando el codo hacia atrás y arriba, sin rotar el torso. Cambiás de mano a mitad de los 40 s.  
+🎥 [Video — ReevolveFit español](https://www.youtube.com/watch?v=ThYEWIpPB0o)  
+**Sin mancuerna:** remo a mesa firme (agarrás el borde de la mesa y tirás tu cuerpo hacia ella, cuerpo inclinado) o Y-T-W (ver abajo).
 
-**Opcional (día que la espalda se sienta 10/10):** cambiar el **bird dog** de la 1.ª estación por **bisagra con mancuernas livianas** (ROM **corto**, 8–10 reps controladas en 40 s) **o** **good morning con palo** (contacto sacro–entre–escápulas, **muy poco** ángulo). A la primera señal rara → volver a bird dog.
+> **Y-T-W (opción):** boca abajo en el suelo. Formás Y (brazos arriba en diagonal), luego T (brazos abiertos en cruz), luego W (codos doblados tirando escápulas juntas). 🎥 [Video — ATHLEAN-X inglés muy visual](https://www.youtube.com/watch?v=vI1084JlEjs)
 
-**Progresión B:** bird dog con pausa arriba; búlgara un poco más profunda; plancha con rodillas al aire cuando la frontal en rodillas sea fácil.
+### A4. Zancada atrás
+**Músculos:** cuádriceps, glúteos, isquios, trabajo unilateral de equilibrio.  
+De pie, das un paso largo hacia atrás con una pierna. La rodilla trasera baja hacia el suelo (sin golpear), la rodilla delantera se mantiene sobre el talón (no adelantada). Torso erguido. Volvés al centro y alternás piernas.  
+**Lumbar:** si molesta, paso más corto y menos profundidad. Nunca inclinarte hacia adelante para bajar más.  
+🎥 [Video — español, técnica completa](https://www.youtube.com/watch?v=zDN7X4oefgY)
 
----
+### A5. Plancha lateral desde rodilla
+**Músculos:** oblicuos (principal), glúteo medio, hombro estabilizador.  
+De lado, apoyado en el codo (directamente bajo el hombro) y en la rodilla doblada. Subís la cadera hasta que el cuerpo forme una línea recta de rodilla a hombro. Sostenés. 20 s un lado, 20 s el otro (o alternás cada vuelta).  
+Si molesta: plancha frontal en rodillas como reemplazo.  
+🎥 [Video — TrabajaTuCuerpo español](https://www.youtube.com/watch?v=Bl8KeajEIAo)
 
-## Tirón extra con mancuernas (1–2×/semana, 5 min, fuera del circuito o al final)
-
-- **Remo inclinado dos mancuernas:** bisagra desde cadera, espalda larga, codos hacia atrás, **12–15 reps × 2–3 series**, peso que permita **cero** redondeo.  
-- **Press de hombro sentado** o **en pie** con core apretado: **8–12 reps × 2 series** (no arquear costillas hacia adelante).
-
----
-
-## Cierre (3–4 min) — post circuito o post longboard fuerte
-
-1. **Figura 4** — 45 s por pierna.  
-2. **Gato–vaca** — 8 ciclos.  
-3. **Estiramiento suave de isquios** de pie o tumbado — 30 s por pierna (sin dolor agudo).
-
----
-
-## Movilidad larga (10 min) — 1–2×/semana
-
-- Zancada baja **con glúteo del trasero apretado** (flexor + control), 60 s/lado.  
-- Aductores suaves, respiración lenta.  
-- Tobillo en estocada corta, 8–10 reps/lado.
+### A6. Puente de glúteos bilateral con pausa
+**Músculos:** glúteo mayor, isquiotibiales, core.  
+Igual que en el calentamiento pero como trabajo: 40 s, pausa de 2 s arriba en cada rep apretando glúteo. Si la pelvis se mantiene estable podés intentar la versión a una pierna (ver Circuito B para detalles).  
+🎥 [Video — técnica completa](https://www.youtube.com/watch?v=uuiN9NRFMBo)
 
 ---
 
-## Resumen semanal sugerido
+## Circuito B — lumbar-friendly (core + estabilidad)
 
-| Día | Idea |
-|-----|------|
-| L | Circuito A |
-| M | Longboard (caminata opcional) |
-| X | Circuito B |
-| J | Longboard (caminata opcional) |
-| V | A o B (el que falte repetir 2.ª vez) |
-| S / D | Movilidad opcional + cierre piriforme/gato-vaca |
+**Mismo formato** 40/20. 2–3 vueltas. 2 min entre vueltas.  
+Es el circuito para los días que la espalda está más sensible, pero también vale hacerlo cuando toca aunque estés bien.
 
 ---
 
-## Nota para Diego Comesaña
+### B1. Bird dog
+**Músculos:** erector espinal, glúteos, deltoides, core profundo (multífidos).  
+En cuatro patas: extendés el brazo derecho y la pierna izquierda a la vez, lento, sin arquear la lumbar ni rotar la pelvis. Pausa 1–2 s arriba. Volvés y cambiás. 20 s un lado + 20 s el otro.  
+Es el ejercicio anti-lumbalgia por excelencia: fortalece la espalda sin cargarla.  
+🎥 [Video — CuídatePlus español](https://www.youtube.com/watch?v=Rn0SFzJzhQc)
 
-Este archivo reemplaza la versión anterior del plan: **prioriza lumbalgia**, **bird dog / planchas / dead bug** antes que bisagras largas, y mete **mancuernas** en tirón y opciones livianas. El seguimiento vivo sigue en **`contexto.md`**.
+> **Variante día 10/10 de espalda:** reemplazás el bird dog de la 1.ª estación por bisagra con mancuernas livianas (ROM corto, 8–10 reps) o good morning con palo (contacto sacro–entre-escápulas, muy poco ángulo). A la primera señal rara → volvés a bird dog.
+
+### B2. Puente de glúteos o hip thrust una pierna
+**Músculos:** glúteo mayor (mucho más que el bilateral), isquios, core lateral.  
+Acostado boca arriba: una pierna doblada apoyada, la otra estirada. Subís la cadera con la pierna apoyada hasta que el cuerpo forme línea recta de hombro a rodilla. La pelvis **no** debe inclinarse hacia el lado de la pierna levantada; si pasa, volvé al puente bilateral.  
+🎥 [Video unilateral — Viviana Gómez Fitness español](https://www.youtube.com/watch?v=1hOUcSScsUY)  
+🎥 [Video técnica puente bilateral](https://www.youtube.com/watch?v=uuiN9NRFMBo)
+
+### B3. Dead bug
+**Músculos:** abdominales profundos (transverso), psoas controlado, core anti-extensión.  
+Acostado boca arriba: brazos apuntando al techo, piernas en 90-90 (muslos verticales, rodillas dobladas). Espalda baja **pegada al suelo** en todo momento. Bajás lentamente el brazo derecho detrás de la cabeza mientras extendés la pierna izquierda. Volvés y cambiás. Si la lumbar se despega → reducí el rango de extensión de pierna.  
+🎥 [Video — Ninolift español](https://www.youtube.com/watch?v=Qz_0vYdXzNI)
+
+### B4. Sentadilla búlgara
+**Músculos:** cuádriceps (principal), glúteos, isquios — unilateral, más demandante que la sentadilla normal.  
+Un pie apoyado atrás en una silla o banco (con el empeine, no los dedos). Pie delantero bien plantado. Bajás con torso erguido hasta que el muslo delantero esté casi paralelo al suelo — **rango corto al principio** (menos paralelo), no forzar. Rodilla delantera no pasa del pie.  
+🎥 [Video — Karen Zárate español](https://www.youtube.com/watch?v=YCPbCCMLwNc)
+
+### B5. Plancha frontal
+**Músculos:** core completo (transverso, recto, oblicuos), hombros, glúteos.  
+Codos bajo los hombros, cuerpo en línea recta de cabeza a talones. Ombligo "hacia adentro y arriba" sin meter el culo. 30–40 s total.  
+**Versión más fácil:** rodillas apoyadas. Empezá por esa si con rodillas en el aire la lumbar protesta.  
+**No hacer hollow agresivo** (no aplanar exageradamente la espalda ni contraer con fuerza brutal): neutro y sostenido.
+
+### B6. Elevación de talón una pierna
+**Músculos:** gastrocnemio, sóleo (gemelos). Tobillo y ritmo de carrera.  
+De pie, una mano apoyada en la pared. Te levantás en punta de pie sobre una sola pierna, controlado arriba y abajo. Alternás en los 40 s. Importante para el longboard (push constante).
+
+---
+
+## Tirón extra con mancuernas — 1–2 ×/semana, 5 min
+
+Hacé esto al final del circuito o en cualquier momento del día si tenés 5 minutos.
+
+### Remo inclinado dos mancuernas
+**Músculos:** dorsal ancho, romboides, trapecio medio, bíceps, core estabilizador.  
+Bisagra desde la cadera (no agacharte redondo), espalda larga, codos hacia atrás al tirar. 12–15 reps × 2–3 series, peso que no rompa la espalda. Si dudás ese día → solo la versión a una mano apoyado en silla.
+
+### Press de hombro sentado
+**Músculos:** deltoides (anterior y medio), tríceps, trapecio, core estabilizador.  
+Sentado con espalda apoyada o con core apretado sin respaldo. Mancuernas a la altura de los hombros, palmas al frente. Empujás hacia arriba sin arquear costillas hacia adelante. 8–12 reps × 2 series.  
+🎥 [Video — español paso a paso](https://www.youtube.com/watch?v=oI3kX7cclb4)
+
+---
+
+## Cierre — 3–4 min (post circuito o post longboard intenso)
+
+### 1. Piriforme en prono — 45 s por pierna
+Tu versión habitual: boca abajo, pierna cruzada al frente. Más tiempo que en el calentamiento y más relajado — dejás que el peso haga el trabajo sin forzar. Si hoy el longboard fue intenso, este paso es obligatorio.  
+🎥 [Video — piriforme en prono](https://www.youtube.com/shorts/TqVc0qwDucA)
+
+### 2. Gato–vaca — 8 ciclos lentos
+Mismo que el calentamiento, ahora para "lavar" la tensión acumulada en la columna.  
+🎥 [Video — técnica completa](https://www.youtube.com/watch?v=FvrUJja1PFI)
+
+### 3. Estiramiento suave de isquios — 30 s por pierna
+De pie o tumbado. Sin dolor agudo. Si es de pie: pierna extendida sobre un escalón o apoyada, inclinarte levemente hacia adelante desde la cadera (no redondear espalda).
+
+---
+
+## Movilidad larga — 1–2×/semana, 10 min (finde o día tranquilo)
+
+- **Zancada baja con glúteo trasero apretado** — 60 s/lado. Flexor de cadera + control.  
+- **Aductores suaves** con respiración lenta — 45 s/lado.  
+- **Tobillo en estocada corta** — 8–10 reps/lado (rodilla adelante del pie, talón pegado al piso).
+
+---
+
+## Progresión (cada 2–3 semanas, de a una cosa)
+
+- **+1 vuelta** al circuito (de 2 a 3).  
+- **+5 s** en alguna plancha o bird dog.  
+- **Un escalón más difícil** en *un solo* ejercicio (ej: plancha lateral de rodilla → con pierna extendida).  
+- **Nunca subir todo a la vez.** Si la lumbar protesta esa semana → retrocedés un paso y listo.
+
+---
+
+> **Seguimiento vivo en** [`contexto.md`](../../contexto.md).
