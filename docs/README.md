@@ -12,5 +12,7 @@ Biblioteca técnica del **entrenador personal de Diego Comesaña**: conceptos po
 | [`metodologia/`](./metodologia/) | Formas de entrenar (circuitos, intervalos, etc.) |
 | [`composicion-y-metricas/`](./composicion-y-metricas/) | Peso, IMC, básculas, composición (marco general) |
 | [`planes/`](./planes/) | Programas o plantillas **tipo** (ej. complemento para patrón longboard + caminata) |
+| [`ejercicios/`](./ejercicios/) | **Base de datos de ejercicios** (69 ejercicios clasificados por nivel Anselmi, zona, equipo, ubicación) |
+| [`app/`](./app/) | **Visión y spec de la app**: features, modelo de datos, lógica de switch, roadmap |
 
 El **estado del entrenamiento** y lo personal van en [`contexto.md`](../contexto.md).

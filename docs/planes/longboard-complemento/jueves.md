@@ -1,10 +1,10 @@
-# Jueves — Solo longboard
+# Jueves — Valle de recuperación
 
-🛹 Día de recuperación activa. Solo tabla, sin circuito.
+🛹 Carga baja (~5). Es el valle post-pico del miércoles — el sistema nervioso necesita este día para absorber el estímulo y llegar bien al viernes.
 
 ---
 
-| Actividad | Detalle |
-|-----------|---------|
-| Longboard | Vuelta larga (~5 km) + salidas cortas. Recuperación activa post-miércoles |
+| Actividad | Intensidad |
+|-----------|------------|
+| Longboard | Suave y corto — surf tranquilo, sin forzar pumping ni push intenso |
 | Cierre opcional | Piriforme en prono si la cadera quedó cargada — [video](https://www.youtube.com/shorts/TqVc0qwDucA) |

@@ -35,13 +35,23 @@ Sirve como **hilo conductor**: muchas preguntas técnicas que vayas haciendo enc
 
 ---
 
+## Material de referencia primario
+
+| Recurso | Link |
+|---------|------|
+| **Presentación — Parte 1** | [YouTube — Horacio Anselmi (parte 1)](https://www.youtube.com/watch?v=XWN5EGva2jo) |
+| **Presentación — Parte 2** | [YouTube — Horacio Anselmi (parte 2)](https://www.youtube.com/watch?v=3r6jcVtaeWo) |
+| Slides guardadas | [`../../assets/anselmi/`](../../assets/anselmi/README.md) |
+
+---
+
 ## Mapa: otros docs de este proyecto
 
 | Tema Anselmi (encaje) | Dónde profundizar en el repo |
 |------------------------|------------------------------|
 | Esfuerzo duro + suave, intervalos | [`../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md`](../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md) |
 | Circuitos, trabajo denso en poco tiempo | [`../metodologia/circuito-intermitente-neuromuscular.md`](../metodologia/circuito-intermitente-neuromuscular.md) |
-| Complemento sin gimnasio (fuerza general) | [`../planes/plan-complemento-casa-longboard.md`](../planes/plan-complemento-casa-longboard.md) |
+| Complemento sin gimnasio (fuerza general) | [`../planes/longboard-complemento/plan-complemento-casa-longboard.md`](../planes/longboard-complemento/plan-complemento-casa-longboard.md) |
 | Día a día, esfuerzos cortos, disfrute (Diego) | [`anselmi-vida-diaria-movimiento-distribuido.md`](./anselmi-vida-diaria-movimiento-distribuido.md) |
 
 ---

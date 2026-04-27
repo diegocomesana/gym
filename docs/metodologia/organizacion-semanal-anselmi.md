@@ -45,7 +45,7 @@ Las unidades de carga combinan longboard + complemento en casa:
 | Martes | ~7 | Vuelta habitual | — |
 | **Miércoles** | **~10** | **Vuelta habitual** | **Circuito A + Bloque de fuerza** |
 | Jueves | ~5 | Suave / corto | — (recuperación) |
-| Viernes | ~8 | Vuelta habitual | Circuito A o B |
+| Viernes | ~8 | Vuelta habitual | Circuito A o B + Bloque de fuerza |
 | **Sábado** | **~7–12** | **Sesión larga / intensa** | Movilidad opcional |
 | Domingo | ~3 | Suave / corto | Cierre piriforme + gato-vaca |
 
@@ -57,16 +57,11 @@ Las unidades de carga combinan longboard + complemento en casa:
 
 ## Para la app
 
-Atributos que necesita cada día en el modelo:
+> Modelo de datos consolidado en [`../app/vision-y-features.md`](../app/vision-y-features.md) — sección *Modelo de datos → Día*.
 
-```
-- dia: "lunes" ... "domingo"
-- carga_relativa: 1–12
-- rol: "inicio" | "alto" | "pico" | "valle" | "segunda_ola" | "pico_opcional" | "recuperacion"
-- bloque_principal: "fuerza" | "coordinacion" | "dinamico" | "pliometrico" | "recuperacion"
-- longboard_intensidad: "suave" | "habitual" | "intenso" | "pico"
-```
+![Organización semanal — Anselmi](../../assets/anselmi/organizacion-semanal.png)
 
 > Fuente: presentación de Horacio Anselmi (diapositiva "Organización semanal").  
 > Marco general: [`horacio-anselmi-marco-y-vinculos.md`](../referentes/horacio-anselmi-marco-y-vinculos.md)  
-> Orden de intensidad: [`orden-intensidad-anselmi.md`](./orden-intensidad-anselmi.md)
+> Orden de intensidad: [`orden-intensidad-anselmi.md`](./orden-intensidad-anselmi.md)  
+> Distribución entre sesiones: [`microciclos-anselmi.md`](./microciclos-anselmi.md)

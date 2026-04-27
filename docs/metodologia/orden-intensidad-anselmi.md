@@ -132,7 +132,7 @@ Además, es una **escala de progresión a largo plazo**: no se salta de nivel 1 
 
 | Nivel | Estado | Dónde aparece |
 |-------|--------|---------------|
-| **1 — Fuerza** | ✓ Activo | Circuito A + Bloque de fuerza (lunes y viernes) |
+| **1 — Fuerza** | ✓ Activo | Circuito A + Bloque de fuerza (miércoles y viernes) |
 | **2 — Dinámico** | ✓ Activo | Calentamiento + cierre todos los días con circuito |
 | **3 — Coordinación** | ✓ Activo | Circuito B + algunos ejercicios del A |
 | **4 — Pliométrico** | — Pendiente | Requiere base de fuerza consolidada (varios meses) |
@@ -144,23 +144,10 @@ El longboard en sí cae principalmente en **nivel 2–3**: push y pumping tienen
 
 ## Para la app (atributos de cada ejercicio)
 
-Cada ejercicio debería tener estos campos para que una app pueda armar sesiones inteligentes:
+> Schema completo de ejercicios consolidado en [`../app/vision-y-features.md`](../app/vision-y-features.md) — sección *Modelo de datos → Ejercicio*.  
+> Archivo de referencia técnica: [`../ejercicios/schema.md`](../ejercicios/schema.md)
 
-```
-- id
-- nombre
-- nivel_anselmi: 1 | 2 | 3 | 4 | 5
-- equipo: ["nada", "mancuernas", "barra", "caja", "cuerda", "cinta", "conos"]
-- musculos_primarios: []
-- musculos_secundarios: []
-- patron_motor: "empuje" | "tirón" | "bisagra" | "sentadilla" | "core" | "unilateral" | "rotación"
-- es_unilateral: bool
-- formato: "reps" | "tiempo" | "distancia"
-- contraindicaciones: ["lumbalgia", "rodilla", "hombro", ...]
-- fase_sesion: ["calentamiento", "principal", "cierre", "cualquiera"]
-- dificultad: 1–5
-- video_url
-```
+![Orden de intensidad — Anselmi](../../assets/anselmi/orden-de-intensidad.png)
 
 > Referencia del marco general: [`../referentes/horacio-anselmi-marco-y-vinculos.md`](../referentes/horacio-anselmi-marco-y-vinculos.md)  
 > Plan actual: [`../planes/longboard-complemento/plan-complemento-casa-longboard.md`](../planes/longboard-complemento/plan-complemento-casa-longboard.md)

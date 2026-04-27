@@ -77,7 +77,7 @@ Levantás las rodillas alternadas a la altura de la cadera, ritmo moderado. Pod�
 
 ## Circuito A — fuerza + tirón + una pierna
 
-> **Qué es este circuito:** un **CIN** — Circuito Intermitente Neuromuscular. Tres características que lo definen: (1) **circuito** = varias estaciones seguidas con ejercicios distintos; (2) **intermitente** = tiempo fijo de trabajo y pausa, no "hacé reps hasta que puedas"; (3) **neuromuscular** = los ejercicios tienen carga real (peso corporal exigente, mancuernas), no es cardio suave. El resultado es estímulo mixto: sube la frecuencia cardíaca *y* hay trabajo muscular real. En 20–25 min obtenés condición cardiovascular + resistencia de fuerza. Lo que **no** es: fuerza pura (eso lo da el bloque de fuerza del lunes y viernes, con series y descanso largo).
+> **Qué es este circuito:** un **CIN** — Circuito Intermitente Neuromuscular. Tres características que lo definen: (1) **circuito** = varias estaciones seguidas con ejercicios distintos; (2) **intermitente** = tiempo fijo de trabajo y pausa, no "hacé reps hasta que puedas"; (3) **neuromuscular** = los ejercicios tienen carga real (peso corporal exigente, mancuernas), no es cardio suave. El resultado es estímulo mixto: sube la frecuencia cardíaca *y* hay trabajo muscular real. En 20–25 min obtenés condición cardiovascular + resistencia de fuerza. Lo que **no** es: fuerza pura (eso lo da el bloque de fuerza del miércoles y viernes, con series y descanso largo).
 
 **Formato:** 40 s trabajo / 20 s para pasar. 1 vuelta = los 6 ejercicios. 2 min entre vueltas. Arrancá con **2 vueltas**, pasá a 3 cuando se sienta manejable.
 
@@ -176,9 +176,9 @@ De pie, una mano apoyada en la pared. Te levantás en punta de pie sobre una sol
 
 ---
 
-## Bloque de fuerza con mancuernas — lunes y viernes, después del circuito
+## Bloque de fuerza con mancuernas — miércoles y viernes, después del circuito
 
-**Por qué existe este bloque:** los circuitos A y B son resistencia de fuerza (carga liviana, tiempo largo). Este bloque agrega el estímulo que falta: series clásicas con un peso que cueste de verdad en las últimas reps. Es el más parecido a lo que Anselmi llamaría trabajo de fuerza real. Son 5–8 minutos al final del circuito del lunes y del viernes.
+**Por qué existe este bloque:** los circuitos A y B son resistencia de fuerza (carga liviana, tiempo largo). Este bloque agrega el estímulo que falta: series clásicas con un peso que cueste de verdad en las últimas reps. Es el más parecido a lo que Anselmi llamaría trabajo de fuerza real. Son 5–8 minutos al final del circuito del miércoles (pico de carga) y del viernes.
 
 **Cómo hacerlo:** no es circuito. Hacés las series de un ejercicio, descansás 60–90 s, y recién ahí seguís con el siguiente. El peso tiene que ser el que te permita llegar a las últimas reps con esfuerzo pero sin perder la técnica.
 

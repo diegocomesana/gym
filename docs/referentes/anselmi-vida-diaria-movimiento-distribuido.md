@@ -40,5 +40,5 @@ Cómo encajan las **ideas de Anselmi** cuando el objetivo **no** es pasar dos ho
 ## Enlace con otros docs
 
 - Marco general Anselmi: [`horacio-anselmi-marco-y-vinculos.md`](./horacio-anselmi-marco-y-vinculos.md).  
-- Plan casa + longboard (prioridad **lumbar**, mancuernas): [`../planes/plan-complemento-casa-longboard.md`](../planes/plan-complemento-casa-longboard.md).  
+- Plan casa + longboard (prioridad **lumbar**, mancuernas): [`../planes/longboard-complemento/plan-complemento-casa-longboard.md`](../planes/longboard-complemento/plan-complemento-casa-longboard.md).  
 - Esfuerzo aeróbico vs picos: [`../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md`](../fisiologia-y-energia/energia-aerobico-umbrales-lactato.md).
