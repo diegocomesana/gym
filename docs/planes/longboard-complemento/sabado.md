@@ -1,10 +1,22 @@
-# Sábado — Longboard + Movilidad (opcional)
+# Sábado — Longboard pico + Movilidad
 
-🛹 Longboard como siempre · 10 min extras si tenés ganas
+🛹 **Sesión de longboard más larga e intensa de la semana** — equivalente al "día de partido" en el modelo de Anselmi. La carga puede ser la máxima de la semana si el cuerpo lo pide.
+
+> Si el cuerpo viene muy cargado después del viernes → bajá la intensidad del longboard y priorizá la movilidad. Si venís bien → es el día de ir largo y fuerte.
 
 ---
 
-## Movilidad larga (opcional, 10 min)
+## Longboard
+
+| Modalidad | Intensidad sugerida |
+|-----------|---------------------|
+| Vuelta larga (5 km+) | Alta — push y pumping al límite |
+| Salidas cortas extra | Si quedan ganas |
+| Surf suave al final | Para bajar revoluciones antes del cierre |
+
+---
+
+## Movilidad (opcional, 10 min)
 
 | # | Ejercicio | Tiempo |
 |---|-----------|--------|

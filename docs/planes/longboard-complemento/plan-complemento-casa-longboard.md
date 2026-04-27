@@ -21,15 +21,15 @@ El longboard **no es el día de descanso** entre circuitos: es lo que hacés sie
 ## Estructura semanal
 
 
-| Día           | Longboard | En casa                                      |
-| ------------- | --------- | -------------------------------------------- |
-| **Lunes**     | ✓ tabla   | Circuito A + bloque de fuerza (remo + press) |
-| **Martes**    | ✓ tabla   | — (solo tabla, recuperación)                 |
-| **Miércoles** | ✓ tabla   | Circuito B                                   |
-| **Jueves**    | ✓ tabla   | — (solo tabla, recuperación)                 |
-| **Viernes**   | ✓ tabla   | A o B + bloque de fuerza (remo + press)      |
-| **Sábado**    | ✓ tabla   | Movilidad larga opcional (10 min)            |
-| **Domingo**   | ✓ tabla   | Cierre piriforme/gato-vaca opcional          |
+| Día | Carga | Longboard | En casa |
+|-----|-------|-----------|---------|
+| **Lunes** | ~8 | ✓ habitual | Circuito B |
+| **Martes** | ~7 | ✓ habitual | — (recuperación) |
+| **Miércoles** | **~10 🔝** | ✓ habitual | **Circuito A + Bloque de fuerza** |
+| **Jueves** | ~5 | ✓ suave | — (valle) |
+| **Viernes** | ~8 | ✓ habitual | A o B |
+| **Sábado** | ~7–12 | ✓ **sesión larga/intensa** | Movilidad opcional |
+| **Domingo** | ~3 | ✓ suave | Cierre opcional |
 
 
 > Si un día no podés o no querés tabla, va igual el circuito si te toca. El orden L/M/X/J/V es orientativo: lo que importa es no poner 3 circuitos seguidos.
@@ -76,6 +76,8 @@ Levantás las rodillas alternadas a la altura de la cadera, ritmo moderado. Pod�
 ---
 
 ## Circuito A — fuerza + tirón + una pierna
+
+> **Qué es este circuito:** un **CIN** — Circuito Intermitente Neuromuscular. Tres características que lo definen: (1) **circuito** = varias estaciones seguidas con ejercicios distintos; (2) **intermitente** = tiempo fijo de trabajo y pausa, no "hacé reps hasta que puedas"; (3) **neuromuscular** = los ejercicios tienen carga real (peso corporal exigente, mancuernas), no es cardio suave. El resultado es estímulo mixto: sube la frecuencia cardíaca *y* hay trabajo muscular real. En 20–25 min obtenés condición cardiovascular + resistencia de fuerza. Lo que **no** es: fuerza pura (eso lo da el bloque de fuerza del lunes y viernes, con series y descanso largo).
 
 **Formato:** 40 s trabajo / 20 s para pasar. 1 vuelta = los 6 ejercicios. 2 min entre vueltas. Arrancá con **2 vueltas**, pasá a 3 cuando se sienta manejable.
 
