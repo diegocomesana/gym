@@ -35,7 +35,7 @@ Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convencion
 
 - **Semana / foco actual (base):**  
   - **Casi todos los días:** **longboard** como eje (vuelta larga ~**5 km en ~30 min** + salidas cortas); **sin caminata fija** si no hace falta — Diego **prefiere 100% tabla** cuando puede. Incluir días/tramos **más suaves** (surf/crucero) para no ir siempre al límite; **caminata** solo si la elige. Patrón **push / pumping / surfing suave** + dancing/trucos cuando entra.  
-  - **3×/semana** (ideal **no** tres días seguidos): **complemento en casa** — plan actualizado en [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md): **Circuito A** (tirón con mancuerna opcional, plancha lateral desde rodilla, zancada prudente); **Circuito B lumbar-friendly** (bird dog, dead bug, búlgara corta, **sin good morning** al inicio; bisagra corta solo si un día la espalda va 10/10). Calentamiento con **figura 4 / piriforme**; **cierre** piriforme + gato-vaca. **Mancuernas y barra liviana** donde dice el doc.  
+  - **3×/semana** (ideal **no** tres días seguidos): **complemento en casa** — plan actualizado en [`docs/planes/longboard-complemento/plan-complemento-casa-longboard.md`](./docs/planes/longboard-complemento/plan-complemento-casa-longboard.md): **Circuito A** (tirón con mancuerna opcional, plancha lateral desde rodilla, zancada prudente); **Circuito B lumbar-friendly** (bird dog, dead bug, búlgara corta, **sin good morning** al inicio; bisagra corta solo si un día la espalda va 10/10). Calentamiento con **figura 4 / piriforme**; **cierre** piriforme + gato-vaca. **Mancuernas y barra liviana** donde dice el doc.  
   - **Otros días (opcional):** **5–10 min** (flexiones, core suave, piriforme/cadena posterior) — no reemplaza los 3 bloques.  
   - **Corrida:** opcional cuando haya ganas; no es eje.  
   - **Lente Anselmi esta semana:** **orden** (cada bloque tiene sentido: base aeróbica + picos + fuerza en casa), **fuerza** (no saltarse el complemento si el cuerpo está bien), **calidad** (técnica que no se rompe; surf suave cuenta como parte del entreno).  
@@ -92,7 +92,7 @@ Los conceptos técnicos ordenados van en [`docs/`](./docs/README.md). Convencion
 
 ## Cómo uso el plan complemento en casa (notas personales)
 
-Doc vigente: [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md) (versión **prioridad lumbar** + mancuernas/barra liviana).
+Doc vigente: [`docs/planes/longboard-complemento/plan-complemento-casa-longboard.md`](./docs/planes/longboard-complemento/plan-complemento-casa-longboard.md) (versión **prioridad lumbar** + mancuernas/barra liviana).
 
 - El longboard ya da **intervalos** y pierna; el plan **rellena** tirón, core estable y glúteo **sin** forzar bisagras largas al principio.  
 - **Lumbalgia:** si un día viene sensible, **B** puede hacerse más suave (menos rango en búlgara, más bird dog, sin opcional de bisagra).  
@@ -109,7 +109,7 @@ Doc vigente: [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/pl
 - Cómo **no confundir** etiquetas de báscula/BMI con la imagen que ves en el espejo cuando hay mucho músculo: [`docs/composicion-y-metricas/peso-bmi-y-basculas.md`](./docs/composicion-y-metricas/peso-bmi-y-basculas.md).  
 - Cómo encajan **lípidos y glucosa en ayunas** con hábitos.  
 - **Circuito intermitente neuromuscular:** [`docs/metodologia/circuito-intermitente-neuromuscular.md`](./docs/metodologia/circuito-intermitente-neuromuscular.md).  
-- **Complemento en casa sin aparatos:** [`docs/planes/plan-complemento-casa-longboard.md`](./docs/planes/plan-complemento-casa-longboard.md).
+- **Complemento en casa sin aparatos:** [`docs/planes/longboard-complemento/plan-complemento-casa-longboard.md`](./docs/planes/longboard-complemento/plan-complemento-casa-longboard.md).
 
 ## Límites o cuidados
 
