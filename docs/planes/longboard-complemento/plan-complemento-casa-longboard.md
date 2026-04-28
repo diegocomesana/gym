@@ -62,16 +62,38 @@ Pies al ancho de hombros o un poco más, punteras levemente afuera. Bajás con p
 **Músculos:** glúteo mayor, isquiotibiales, core.  
 Acostado boca arriba, rodillas dobladas, pies apoyados. Subís la cadera apretando el glúteo al llegar arriba, 1 segundo de pausa, bajás controlado. La espalda baja no debe despegarse al bajar.
 
-### 5. Bird dog muy corto — 4 reps lentas por lado
-
-**Músculos:** erector espinal, glúteos, deltoides, core profundo.  
-En cuatro patas: extendés el brazo derecho y la pierna izquierda a la vez, lento, sin que la pelvis se rote ni la espalda lumbar se arquee. Volvés y cambiás. No importa la altura, importa la estabilidad.  
-🎥 [Video — CuídatePlus español](https://www.youtube.com/watch?v=Rn0SFzJzhQc)
-
-### 6. Marcha en el lugar rodillas altas — 40 s
+### 5. Marcha en el lugar rodillas altas — 40 s
 
 **Músculos:** flexores de cadera, abdominales, elevación de frecuencia cardíaca.  
 Levantás las rodillas alternadas a la altura de la cadera, ritmo moderado. Podés llevar los brazos en oposición.
+
+---
+
+## Zona media — 6 min · 2 rondas · 30 s descanso entre rondas
+
+> Activa el core antes de cualquier circuito. No es el circuito principal — va suave, con control. Va después del calentamiento y antes del Circuito A o B.
+
+### ZM1. Bird dog — 40 s (alternando lados)
+
+**Músculos:** erector espinal, glúteos, deltoides, core profundo (multífidos).  
+En cuatro patas: extendés el brazo derecho y la pierna izquierda a la vez, lento, sin que la pelvis se rote ni la espalda lumbar se arquee. Volvés y cambiás. No importa la altura, importa la estabilidad.  
+🎥 [Video — CuídatePlus español](https://www.youtube.com/watch?v=Rn0SFzJzhQc)
+
+> **Variante día 10/10 de espalda:** reemplazás el bird dog por bisagra con mancuernas livianas (ROM corto, 8–10 reps) o good morning con palo. A la primera señal rara → volvés a bird dog.
+
+### ZM2. Dead bug — 40 s (alternando lados)
+
+**Músculos:** abdominales profundos (transverso), psoas controlado, core anti-extensión.  
+Acostado boca arriba: brazos apuntando al techo, piernas en 90-90 (muslos verticales, rodillas dobladas). Espalda baja **pegada al suelo** en todo momento. Bajás lentamente el brazo derecho detrás de la cabeza mientras extendés la pierna izquierda. Volvés y cambiás. Si la lumbar se despega → reducí el rango de extensión de pierna.  
+🎥 [Video — Ninolift español](https://www.youtube.com/watch?v=Qz_0vYdXzNI)
+
+### ZM3. Plancha frontal — 30 s
+
+**Músculos:** core completo (transverso, recto, oblicuos), hombros, glúteos.  
+Codos bajo los hombros, cuerpo en línea recta de cabeza a talones. Ombligo "hacia adentro y arriba" sin meter el culo. **Versión más fácil:** rodillas apoyadas. **No hacer hollow agresivo:** neutro y sostenido.  
+🎥 [Video — técnica](https://www.youtube.com/watch?v=TnsqBqlwSxg)
+
+*Descanso entre rondas: 30 s. Transición zona media → circuito: 60–90 s (esperá a que la respiración baje).*
 
 ---
 
@@ -127,49 +149,34 @@ Igual que en el calentamiento pero como trabajo: 40 s, pausa de 2 s arriba en ca
 
 ---
 
-## Circuito B — lumbar-friendly (core + estabilidad)
+## Circuito B — lumbar-friendly (glúteo + estabilidad unilateral)
 
 **Mismo formato** 40/20. 2–3 vueltas. 2 min entre vueltas.  
-Es el circuito para los días que la espalda está más sensible, pero también vale hacerlo cuando toca aunque estés bien.
+Es el circuito para los días que la espalda está más sensible, pero también vale hacerlo cuando toca aunque estés bien. Siempre va precedido de la Zona Media.
 
 ---
 
-### B1. Bird dog
-
-**Músculos:** erector espinal, glúteos, deltoides, core profundo (multífidos).  
-En cuatro patas: extendés el brazo derecho y la pierna izquierda a la vez, lento, sin arquear la lumbar ni rotar la pelvis. Pausa 1–2 s arriba. Volvés y cambiás. 20 s un lado + 20 s el otro.  
-Es el ejercicio anti-lumbalgia por excelencia: fortalece la espalda sin cargarla.  
-🎥 [Video — CuídatePlus español](https://www.youtube.com/watch?v=Rn0SFzJzhQc)
-
-> **Variante día 10/10 de espalda:** reemplazás el bird dog de la 1.ª estación por bisagra con mancuernas livianas (ROM corto, 8–10 reps) o good morning con palo (contacto sacro–entre-escápulas, muy poco ángulo). A la primera señal rara → volvés a bird dog.
-
-### B2. Puente de glúteos o hip thrust una pierna
+### B1. Puente de glúteos a una pierna — 20 s/pierna
 
 **Músculos:** glúteo mayor (mucho más que el bilateral), isquios, core lateral.  
 Acostado boca arriba: una pierna doblada apoyada, la otra estirada. Subís la cadera con la pierna apoyada hasta que el cuerpo forme línea recta de hombro a rodilla. La pelvis **no** debe inclinarse hacia el lado de la pierna levantada; si pasa, volvé al puente bilateral.  
 🎥 [Video unilateral — Viviana Gómez Fitness español](https://www.youtube.com/watch?v=1hOUcSScsUY)  
 🎥 [Video técnica puente bilateral](https://www.youtube.com/watch?v=uuiN9NRFMBo)
 
-### B3. Dead bug
-
-**Músculos:** abdominales profundos (transverso), psoas controlado, core anti-extensión.  
-Acostado boca arriba: brazos apuntando al techo, piernas en 90-90 (muslos verticales, rodillas dobladas). Espalda baja **pegada al suelo** en todo momento. Bajás lentamente el brazo derecho detrás de la cabeza mientras extendés la pierna izquierda. Volvés y cambiás. Si la lumbar se despega → reducí el rango de extensión de pierna.  
-🎥 [Video — Ninolift español](https://www.youtube.com/watch?v=Qz_0vYdXzNI)
-
-### B4. Sentadilla búlgara
+### B2. Sentadilla búlgara — 20 s/pierna
 
 **Músculos:** cuádriceps (principal), glúteos, isquios — unilateral, más demandante que la sentadilla normal.  
 Un pie apoyado atrás en una silla o banco (con el empeine, no los dedos). Pie delantero bien plantado. Bajás con torso erguido hasta que el muslo delantero esté casi paralelo al suelo — **rango corto al principio** (menos paralelo), no forzar. Rodilla delantera no pasa del pie.  
 🎥 [Video — Karen Zárate español](https://www.youtube.com/watch?v=YCPbCCMLwNc)
 
-### B5. Plancha frontal
+### B3. Plancha lateral desde rodilla — 20 s/lado
 
-**Músculos:** core completo (transverso, recto, oblicuos), hombros, glúteos.  
-Codos bajo los hombros, cuerpo en línea recta de cabeza a talones. Ombligo "hacia adentro y arriba" sin meter el culo. 30–40 s total.  
-**Versión más fácil:** rodillas apoyadas. Empezá por esa si con rodillas en el aire la lumbar protesta.  
-**No hacer hollow agresivo** (no aplanar exageradamente la espalda ni contraer con fuerza brutal): neutro y sostenido.
+**Músculos:** oblicuos (principal), glúteo medio, hombro estabilizador.  
+De lado, apoyado en el codo (directamente bajo el hombro) y en la rodilla doblada. Subís la cadera hasta que el cuerpo forme una línea recta de rodilla a hombro. Sostenés. 20 s un lado, 20 s el otro.  
+Si molesta: plancha frontal en rodillas como reemplazo.  
+🎥 [Video — TrabajaTuCuerpo español](https://www.youtube.com/watch?v=Bl8KeajEIAo)
 
-### B6. Elevación de talón una pierna
+### B4. Elevación de talón una pierna — 20 s/pierna
 
 **Músculos:** gastrocnemio, sóleo (gemelos). Tobillo y ritmo de carrera.  
 De pie, una mano apoyada en la pared. Te levantás en punta de pie sobre una sola pierna, controlado arriba y abajo. Alternás en los 40 s. Importante para el longboard (push constante).
